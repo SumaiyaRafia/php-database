@@ -1,1 +1,0 @@
-<button onclick="document.location.href='logout.php'" style="font-family: 'Comic Sans MS'; font-size: 18px; width: 200px; height: 40px;  color:black;  background:white; border-color:black;">Logout</button>
